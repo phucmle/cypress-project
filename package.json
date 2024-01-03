@@ -1,0 +1,13 @@
+{
+  "name": "cypress-installation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run --browser edge --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
